@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTBJ.Starbuzz.Business", "CTBJ.Starbuzz.Business\CTBJ.Starbuzz.Business.csproj", "{D855F1CC-79AF-45F9-BC67-98E69B80154D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTBJ.StarBuzz.Test", "CTBJ.StarBuzz.Test\CTBJ.StarBuzz.Test.csproj", "{1AEC89B7-C12D-49B4-BEBE-E57CA03FEB81}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CB364B0E-F01D-4DB4-95CF-B26FBA63D4F7}"
+	ProjectSection(SolutionItems) = preProject
+		KataStarbuzzCoffee.vsmdi = KataStarbuzzCoffee.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = KataStarbuzzCoffee.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D855F1CC-79AF-45F9-BC67-98E69B80154D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D855F1CC-79AF-45F9-BC67-98E69B80154D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D855F1CC-79AF-45F9-BC67-98E69B80154D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D855F1CC-79AF-45F9-BC67-98E69B80154D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AEC89B7-C12D-49B4-BEBE-E57CA03FEB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AEC89B7-C12D-49B4-BEBE-E57CA03FEB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AEC89B7-C12D-49B4-BEBE-E57CA03FEB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AEC89B7-C12D-49B4-BEBE-E57CA03FEB81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
